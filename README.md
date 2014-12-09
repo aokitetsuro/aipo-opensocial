@@ -11,4 +11,4 @@ aipo-opensocial
 
 テスト
 ----------
-droneテスト
+droneテスト test
